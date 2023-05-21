@@ -53,6 +53,18 @@ https://dls7rxd829s2x.cloudfront.net/data/b/1cc18a8b.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pemOznnLwBHl6TuQWCJ75kgqhS8.jpg" group-title="LANÇAMENTOS 2023"A Luz do Demônio
 https://dls7rxd829s2x.cloudfront.net/data/5/0a33d195.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" group-title="LANÇAMENTOS 2023"A Morte do Demônio: A Ascensão
+https://dls7rxd829s2x.cloudfront.net/data/1/6ab1ee01.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg" group-title="LANÇAMENTOS 2023"Quantumania
+https://dls7rxd829s2x.cloudfront.net/data/4/68a9a5a4.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023"
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023"
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023"
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023"
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023"
+
 ######################################################################################################################
 
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
@@ -276,6 +288,30 @@ https://dls7rxd829s2x.cloudfront.net/data/1/3c356971.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg" group-title="ICARLY" pltv-subgroup="ICARLY 1ª Temporada",icarly4
 https://dls7rxd829s2x.cloudfront.net/data/9/38f66799.mp4
+########################################################################################################33
+http://189.81.38.25:4000/play/a0im
+#EXTINF:-1,23.6 Telecine-fun M4
+http://189.81.38.25:4000/play/a0in
+#EXTINF:-1,24.3 HBO PLUS M4
+http://189.81.38.25:4000/play/a0iq
+#EXTINF:-1,24.4 HBO FAMILY M4
+http://189.81.38.25:4000/play/a0ir
+#EXTINF:-1,24.5 HBO SIGNATURE M4
+http://189.81.38.25:4000/play/a0is
+#EXTINF:-1,24.6 HBO MUNDI M4
+http://189.81.38.25:4000/play/a0it
+#EXTINF:-1,24.7 HBO XTREME M4
+http://189.81.38.25:4000/play/a0iu
+#EXTINF:-1,24.8 HBO POP M4
+http://189.81.38.25:4000/play/a0iv
+#EXTINF:-1,25.3 PARAMOUNT M4
+http://189.81.38.25:4000/play/a0iy
+#EXTINF:-1,25.4 AMC M4
+http://189.81.38.25:4000/play/a0iz
+#EXTINF:-1,25.5 TCM M4
+http://189.81.38.25:4000/play/a0j0
+#EXTINF:-1,25.6 FILM & ARTES M4
+http://189.81.38.25:4000/play/a0j1
 
 
 
