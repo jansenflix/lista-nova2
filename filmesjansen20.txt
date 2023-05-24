@@ -291,16 +291,16 @@ https://dls7rxd829s2x.cloudfront.net/data/9/38f66799.mp4
 ########################################################################################################33
 
 
-#EXTINF:-1 tvg-logo="" group-title="TV ON",Telecine-fun 
+#EXTINF:-1 tvg-logo="" group-title="TV ON",Telecine
 http://189.81.38.25:4000/play/a0in
 
-#EXTINF:-1 tvg-logo="" group-title="TV ON",hbo plus
+#EXTINF:-1 tvg-logo="" group-title="TV ON",hbo
 http://189.81.38.25:4000/play/a0iq
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",syfy
 http://189.81.38.25:4000/play/a0ie
 
-#EXTINF:-1 tvg-logo="" group-title="TV ON",PARAMOUNT 
+#EXTINF:-1 tvg-logo="" group-title="TV ON",paramont
 http://189.81.38.25:4000/play/a0iy
 
 
