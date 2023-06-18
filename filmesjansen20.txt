@@ -133,6 +133,20 @@ https://dls7rxd829s2x.cloudfront.net/data/5/30f93235.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/qgW5iIe6QUn170omG6tdGS4BB9U.jpg" group-title="AÇÃO",Agente das Sombras 
 https://dls7rxd829s2x.cloudfront.net/data/0/2eaa9820.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dTXXXMwZ30LVf51nJvh2QGKPIY6.jpg" group-title="AÇÃO",A Mulher Rei
+https://dls7rxd829s2x.cloudfront.net/data/a/758a2c8a.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="AÇÃO",John Wick 4: Baba Yaga 
+https://dls7rxd829s2x.cloudfront.net/data/2/041f65a2.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
