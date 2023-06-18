@@ -169,6 +169,9 @@ https://dls7rxd829s2x.cloudfront.net/data/b/1f63a09b.mp4
 #EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/red-crescer-e-uma-fera-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="ANIMAÇÃO",Red  Crescer é uma Fera
 https://dls7rxd829s2x.cloudfront.net/data/e/61f0d6ee.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6a7NItazspSV8Fl7u46ccxwPKk4.jpg" group-title="ANIMAÇÃO",Homem-Aranha: Através do Aranhaverso 
+https://dls7rxd829s2x.cloudfront.net/data/6/04f89ce6.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
