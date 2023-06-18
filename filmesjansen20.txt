@@ -232,7 +232,8 @@ https://dls7rxd829s2x.cloudfront.net/data/3/42814803.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ucFRXjYTuIhMEa2ZgK4FKrwTPN.jpg" group-title="DRAMA",bicho de sete cabeças
 https://dls7rxd829s2x.cloudfront.net/data/8/3f3157c8.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fcJmqffmemRv9Eb2ZOkeqM5h5MO.jpg" group-title="DRAMA",Desaparecida 
+https://dls7rxd829s2x.cloudfront.net/data/7/078e6617.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
