@@ -323,7 +323,20 @@ https://dls7rxd829s2x.cloudfront.net/data/1/3c356971.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg" group-title="ICARLY" pltv-subgroup="ICARLY 1ª Temporada",icarly4
 https://dls7rxd829s2x.cloudfront.net/data/9/38f66799.mp4
-########################################################################################################33
+########################################################################################################
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kjgM6baJMb4889MxHLwFAePowcb.jpg" group-title="Entre Estranhos" pltv-subgroup="Entre Estranhos 1ª Temporada",Entre Estranhos1
+https://dls7rxd829s2x.cloudfront.net/data/9/4aeab049.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kjgM6baJMb4889MxHLwFAePowcb.jpg" group-title="Entre Estranhos" pltv-subgroup="Entre Estranhos 1ª Temporada",Entre Estranhos2
+https://dls7rxd829s2x.cloudfront.net/data/3/4cf07da3.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kjgM6baJMb4889MxHLwFAePowcb.jpg" group-title="Entre Estranhos" pltv-subgroup="Entre Estranhos 1ª Temporada",Entre Estranhos3
+https://dls7rxd829s2x.cloudfront.net/data/6/5198b296.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kjgM6baJMb4889MxHLwFAePowcb.jpg" group-title="Entre Estranhos" pltv-subgroup="Entre Estranhos 1ª Temporada",Entre Estranhos4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kjgM6baJMb4889MxHLwFAePowcb.jpg" group-title="Entre Estranhos" pltv-subgroup="Entre Estranhos 1ª Temporada",Entre Estranhos5
+##########################################################################################################
 
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN
