@@ -343,10 +343,10 @@ https://dls7rxd829s2x.cloudfront.net/data/c/2094381c.mp4
 
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN
-http://177.21.82.154:4000/play/a01o
+https://s--p12w.smvdn22.live/live/Radon-8/playlist.m3u8?match_id=8817109&s_id=1&t_id=312&stats=stats1wjyjz.top&timestamp=1689123896&key=VTJGc2RHVmtYMThJM1M5UkxqTmx4N3czMGd5UDkydm1LSkxKV0FmSU1HVEVPWHB6aWMxc1laNVVRNkVwYjJzWUdQZGpvVzczbGp5a3dJOVVVS2FFakgyaWVrdTUwY2w0Ym5WM0o4YnVRVHJ5Ykh5Z2tYSU1aZVlYNEZ2emxwRDZ4emZ4OEhjSlFKL05BVFVSSWZieWhIVTFkdkw5NFI5eVdKbnROb2hSN0NjPQ==
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN 3
-http://177.21.82.154:4000/play/a01p
+https://s--p26w.smvdn22.live/live/roland-garros-lenglen/playlist.m3u8?match_id=8806990&s_id=1&t_id=312&stats=stats1wjyjz.top&timestamp=1689124649&key=VTJGc2RHVmtYMS9acHVuV3ZVU3llWld4cTdmSkJidkhCdERCYm9wdDN1SGo2RklNTk1UQjA5L2h2cGxWRVI5aUNwbFFEeklyRVhzV0lya3NkVTFVVUxNYThxekJwRm9kbEEwdzdSOGJheTlNQlh6bXJWalZyWjk1dktDTmdSejJPNzA5bWlXOWJVclJJTit5Z3hNTjRSSzhBdWhyclZxbkxsbXpNZDVHSkxOTXZ3WnpMblk5dE9PRWJKMFBWb1lS
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",syfy
 http://189.81.38.25:4000/play/a0ie
