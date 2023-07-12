@@ -343,10 +343,15 @@ https://dls7rxd829s2x.cloudfront.net/data/c/2094381c.mp4
 
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN
-https://pull.niur.live/live/stream-100795_lhd.flv?txSecret=6bb6cc5258081d2a54b2c1e32f70e772&txTime=64ae5a82
+https://pull.niuo.live/live/stream-224711_lhd1.flv?txSecret=abd37baa58b19b0f3cea6de31c21bc59&txTime=64af8073
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN 3
-https://pull.niur.live/live/stream-202381_lhd.flv?txSecret=fd224ce751888c6bd500401c914633cb&txTime=64ae5c63
+https://pull.niuo.live/live/stream-130032_lhd1.flv?txSecret=2dcbe5329e48597e570e46b0129ce002&txTime=64af7f83
+
+#EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN4
+https://api.lamboim.live/match/0c6b52728eacad60b816051beb7007bf/mlive
+
+#EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN5
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",syfy
 http://189.81.38.25:4000/play/a0ie
