@@ -352,6 +352,9 @@ http://81.49.224.77:8080/bein1/mpegts
 https://api.lamboim.live/match/0c6b52728eacad60b816051beb7007bf/mlive
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN5
+https://ss7aja9crp62j2zf.cdnspectrum.net:8443/hls/cwdjkhlh9g-98300340.ts
+
+#EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN6
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",syfy
 http://189.81.38.25:4000/play/a0ie
