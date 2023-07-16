@@ -73,7 +73,8 @@ https://dls7rxd829s2x.cloudfront.net/data/0/373df440.mp4
 
 ##########################################################################################################################
 
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg" group-title="TERROR",A Profecia do Mal 
+https://dls7rxd829s2x.cloudfront.net/data/c/693f3d8c.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 
@@ -146,7 +147,7 @@ https://dls7rxd829s2x.cloudfront.net/data/a/758a2c8a.mp4
 https://dls7rxd829s2x.cloudfront.net/data/2/041f65a2.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg" group-title="AÇÃO",Velozes & Furiosos 10
-https://dls7rxd829s2x.cloudfront.net/data/6/39f71da6.mp4
+https://dls7rxd829s2x.cloudfront.net/data/d/264327ed.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1w9WXOKWT6Cuj2TxAknIUhhvLZt.jpg" group-title="AÇÃO",Sisu 
 https://dls7rxd829s2x.cloudfront.net/data/1/64d620a1.mp4
