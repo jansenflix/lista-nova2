@@ -152,7 +152,8 @@ https://dls7rxd829s2x.cloudfront.net/data/d/264327ed.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1w9WXOKWT6Cuj2TxAknIUhhvLZt.jpg" group-title="AÇÃO",Sisu 
 https://dls7rxd829s2x.cloudfront.net/data/1/64d620a1.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2VGVXvvooTICzePMuV9zOTHiXKS.jpg" group-title="AÇÃO",O Homem da Cabana
+https://dls7rxd829s2x.cloudfront.net/data/1/38d75d51.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
@@ -253,7 +254,8 @@ https://dls7rxd829s2x.cloudfront.net/data/8/3f3157c8.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/fcJmqffmemRv9Eb2ZOkeqM5h5MO.jpg" group-title="DRAMA",Desaparecida 
 https://dls7rxd829s2x.cloudfront.net/data/7/078e6617.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w6urr1Bo8R4XEOBJDW0j1fNYWH0.jpg" group-title="DRAMA",O Demônio dos Mares 
+https://dls7rxd829s2x.cloudfront.net/data/8/535f67e8.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
