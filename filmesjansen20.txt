@@ -368,6 +368,9 @@ http://189.81.38.25:4000/play/a0iy
 #EXTINF:-1 tvg-logo="" group-title="TV ON",picapau
 http://189.81.38.25:4000/play/a0ez
 
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD" tvg-logo="" group-title="jogos",Polsat Sport News FHD
+http://clientsportals.com:2095/d4Je5xwD/yadTXB63/84196
+
 
 
 
