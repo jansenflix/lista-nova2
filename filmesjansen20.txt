@@ -123,6 +123,7 @@ https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg" group-title="AÇÃO",Resgate 2
 https://dls7rxd829s2x.cloudfront.net/data/a/4cf0464a.mp4 
+https://www.seedr.cc/subtitles/file/hash/86269b98f2751e2ff67711c24f18c23727be2263/8666353.vtt
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="AÇÃO",Velozes e Furiosos Hobbs & Shaw 
 https://dls7rxd829s2x.cloudfront.net/data/9/1010cae9.mp4
