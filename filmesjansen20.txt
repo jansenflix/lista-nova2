@@ -75,8 +75,8 @@ https://dls7rxd829s2x.cloudfront.net/data/2/2ccb4f02.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta3
 https://dls7rxd829s2x.cloudfront.net/data/c/11a6aa2c.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta4
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta2
+https://dls7rxd829s2x.cloudfront.net/data/8/5e9c6258.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta5
 
 ##########################################################################################################################
 
