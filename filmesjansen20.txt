@@ -115,7 +115,8 @@ https://dls7rxd829s2x.cloudfront.net/data/b/12ac15fb.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="AÇÃO",Homem-Aranha Longe de Casa
 https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg" group-title="AÇÃO",Resgate 2
+https://dls7rxd829s2x.cloudfront.net/data/a/4cf0464a.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="AÇÃO",Velozes e Furiosos Hobbs & Shaw 
 https://dls7rxd829s2x.cloudfront.net/data/9/1010cae9.mp4
