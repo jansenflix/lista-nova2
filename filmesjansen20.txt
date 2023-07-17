@@ -155,11 +155,22 @@ https://dls7rxd829s2x.cloudfront.net/data/1/64d620a1.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2VGVXvvooTICzePMuV9zOTHiXKS.jpg" group-title="AÇÃO",O Homem da Cabana
 https://dls7rxd829s2x.cloudfront.net/data/1/38d75d51.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wXJvhIt2lx5FAaTVj0ddOy7BXqC.jpg" group-title="AÇÃO",Busca Sem Limites
+https://dls7rxd829s2x.cloudfront.net/data/9/26f683f9.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+
 
 
 
