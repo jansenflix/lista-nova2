@@ -396,7 +396,8 @@ http://189.81.38.25:4000/play/a0ez
 
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD" tvg-logo="" group-title="TV ON",Polsat Sport News FHD
 http://clientsportals.com:2095/d4Je5xwD/yadTXB63/84196
-
+#EXTINF:-1 tvg-ID="" tvg-name="PORTAL" tvg-logo="http://168.205.87.198/logocanais/maptv.png" group-title="OI TV BASICO",PORTAL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/82.m3u8
 
 
 
