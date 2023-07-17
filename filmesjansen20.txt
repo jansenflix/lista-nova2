@@ -354,7 +354,8 @@ https://dls7rxd829s2x.cloudfront.net/data/c/2094381c.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kjgM6baJMb4889MxHLwFAePowcb.jpg" group-title="Entre Estranhos" pltv-subgroup="Entre Estranhos 1ª Temporada",Entre Estranhos5
 ##########################################################################################################
-#EXTINF:-1 tvg-id="Todo Mundo Odeia o Chris " tvg-name="Todo Mundo Odeia o Chris " tvg-logo="https://www.themoviedb.org/t/p/original/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg" group-title="Todo Mundo Odeia o Chris" pltv-subgroup="Todo Mundo Odeia o Chris 2ª Temporada",Todo Mundo Odeia o Chris
+#EXTINF:-1 tvg-id="Todo Mundo Odeia o Chris " tvg-name="Todo Mundo Odeia o Chris T02E02 " tvg-logo="https://www.themoviedb.org/t/p/original/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg" group-title="Todo Mundo Odeia o Chris" pltv-subgroup="Todo Mundo Odeia o Chris 2ª Temporada",Todo Mundo Odeia o Chris
+https://dls7rxd829s2x.cloudfront.net/data/d/5a00cbcd.mp4
 #################################################################################################################################
 
 
