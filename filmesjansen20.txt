@@ -66,10 +66,11 @@ https://dls7rxd829s2x.cloudfront.net/data/4/68a9a5a4.mp4
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
 
 ######################################################################################################################
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta1
 https://dls7rxd829s2x.cloudfront.net/data/0/373df440.mp4
 
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta2
+https://dls7rxd829s2x.cloudfront.net/data/2/2ccb4f02.mp4
 
 ##########################################################################################################################
 
@@ -326,7 +327,7 @@ https://dls7rxd829s2x.cloudfront.net/data/d/43a013bd.mp4
 
  #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/muLbLW8kWOSiEBLgmHeAw6gKpB0.jpg" group-title="Suspicion" pltv-subgroup="Suspicion 1ª Temporada",Suspicion3
  https://dls7rxd829s2x.cloudfront.net/data/2/42747242.mp4
-
+#########################################################################################################################################
   #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg" group-title="ICARLY" pltv-subgroup="ICARLY 1ª Temporada",icarly1
 https://dls7rxd829s2x.cloudfront.net/data/d/523b1a4d.mp4
 
