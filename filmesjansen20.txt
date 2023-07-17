@@ -121,6 +121,9 @@ https://dls7rxd829s2x.cloudfront.net/data/a/4cf0464a.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" group-title="AÇÃO",Velozes e Furiosos Hobbs & Shaw 
 https://dls7rxd829s2x.cloudfront.net/data/9/1010cae9.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hWFjbklaijYSYanWQaV8sLSndeI.jpg" group-title="AÇÃO",Velozes e Furiosos Hobbs & Shaw
+https://www.themoviedb.org/t/p/original/hWFjbklaijYSYanWQaV8sLSndeI.jpg
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/fnAzaxRSiveFafudJtByxA7I2xT.jpg" group-title="AÇÃO",Velozes & Furiosos 9
 https://dls7rxd829s2x.cloudfront.net/data/f/435c6e6f.mp4
 
