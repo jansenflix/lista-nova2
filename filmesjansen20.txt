@@ -72,6 +72,12 @@ https://dls7rxd829s2x.cloudfront.net/data/0/373df440.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta2
 https://dls7rxd829s2x.cloudfront.net/data/2/2ccb4f02.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta3
+https://dls7rxd829s2x.cloudfront.net/data/c/11a6aa2c.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta2
+
 ##########################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg" group-title="TERROR",A Profecia do Mal 
