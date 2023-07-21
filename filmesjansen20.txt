@@ -170,7 +170,8 @@ https://dls7rxd829s2x.cloudfront.net/data/1/38d75d51.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wXJvhIt2lx5FAaTVj0ddOy7BXqC.jpg" group-title="AÇÃO",Busca Sem Limites
 https://dls7rxd829s2x.cloudfront.net/data/9/26f683f9.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2QhhILPAv7MKFd1q57ssQeEV2su.jpg" group-title="AÇÃO",Monster Hunter 
+https://dls7rxd829s2x.cloudfront.net/data/5/4b7dfe95.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
@@ -181,6 +182,11 @@ https://dls7rxd829s2x.cloudfront.net/data/9/26f683f9.mp4
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="Memória de um Crime" tvg-logo="https://www.themoviedb.org/t/p/original/3ckAFHWHwL9aKBGhbJyzJoDFUGD.jpg" group-title="AÇÃO",memorias de um crime
+https://dls7rxd829s2x.cloudfront.net/data/1/74664da1.mp4
+
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 
 
 
