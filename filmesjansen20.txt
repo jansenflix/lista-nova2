@@ -159,7 +159,7 @@ https://dls7rxd829s2x.cloudfront.net/data/a/758a2c8a.mp4
 https://dls7rxd829s2x.cloudfront.net/data/2/041f65a2.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg" group-title="AÇÃO",Velozes & Furiosos 10
-https://dls7rxd829s2x.cloudfront.net/data/d/264327ed.mp4
+https://dls7rxd829s2x.cloudfront.net/data/2/34a36c62.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1w9WXOKWT6Cuj2TxAknIUhhvLZt.jpg" group-title="AÇÃO",Sisu 
 https://dls7rxd829s2x.cloudfront.net/data/1/64d620a1.mp4
@@ -239,7 +239,8 @@ https://dls7rxd829s2x.cloudfront.net/data/6/04f89ce6.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg" group-title="ANIMAÇÃO",Super Mario Bros
 https://dls7rxd829s2x.cloudfront.net/data/6/10df0756.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/FiqBRypTDyHzqcxdbpPb3ddFep.jpg" group-title="ANIMAÇÃO",Dragon Ball Super SUPER HERO
+https://dls7rxd829s2x.cloudfront.net/data/1/40963de1.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
