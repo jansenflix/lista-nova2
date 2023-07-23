@@ -190,6 +190,15 @@ https://dls7rxd829s2x.cloudfront.net/data/1/74664da1.mp4
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+
+
 
 
 
