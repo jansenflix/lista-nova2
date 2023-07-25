@@ -433,10 +433,10 @@ https://ss7aja9crp62j2zf.cdnspectrum.net:8443/hls/cwdjkhlh9g-98300340.ts
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN6
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",RECORD
-http://grtsvk.life:80/942846298/571486501/71542
+http://grtsvk.life:80/942846298/571486501/168957
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",gobo df
-http://grtsvk.life:80/942846298/571486501/168957
+http://grtsvk.life:80/942846298/571486501/71023
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",picapau
 http://189.81.38.25:4000/play/a0ez
