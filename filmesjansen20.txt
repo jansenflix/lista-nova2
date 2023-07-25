@@ -92,8 +92,17 @@ https://dls7rxd829s2x.cloudfront.net/data/a/4b4adeea.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yXJqgPX98cR4FtzLNTcaEEkhlSS.jpg" group-title="TERROR",Brinquedos do Terror
 https://dls7rxd829s2x.cloudfront.net/data/4/24d002d4.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jA4h6xw5GhHnwqHtGd1VLNnl9XA.jpg" group-title="TERROR",Rogai por Nós
+https://dls7rxd829s2x.cloudfront.net/data/7/15e4efe7.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dSMhCQNe5Kb157zOU4k7IqVrInd.jpg" group-title="TERROR",Parque do Inferno
+https://dls7rxd829s2x.cloudfront.net/data/b/081c4fab.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 
 
@@ -185,14 +194,17 @@ https://dls7rxd829s2x.cloudfront.net/data/b/6e6854eb.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hZ5B9ApAslx5XWEouXKgCB9xHF0.jpg" group-title="AÇÃO",Xtreme 
 https://dls7rxd829s2x.cloudfront.net/data/7/16b61017.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nLNKX18xxW6RpkARYrmxDZvuB8r.jpg" group-title="AÇÃO",O Gângster o Policial e o Diabo
+https://dls7rxd829s2x.cloudfront.net/data/d/2a8b910d.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/p7N1g4ctgM3hL0ubLYMzo3NbBqf.jpg" group-title="AÇÃO",Cosmoball Os Guardiões do Universo
+https://dls7rxd829s2x.cloudfront.net/data/7/49bbd097.mp4
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="Memória de um Crime" tvg-logo="https://www.themoviedb.org/t/p/original/3ckAFHWHwL9aKBGhbJyzJoDFUGD.jpg" group-title="AÇÃO",memorias de um crime
 https://dls7rxd829s2x.cloudfront.net/data/1/74664da1.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg" group-title="AÇÃO",Robin Hood A Origem
+https://dls7rxd829s2x.cloudfront.net/data/e/46b475be.mp4
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 
