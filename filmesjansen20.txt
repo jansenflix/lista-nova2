@@ -345,7 +345,8 @@ https://dls7rxd829s2x.cloudfront.net/data/c/2dcdd11c.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tGa6klNHeAvkyh2GPPISFBSwZuZ.jpg" group-title="SUSPENSE",Tubarão: Mar de Sangue
 https://dls7rxd829s2x.cloudfront.net/data/d/43a013bd.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/soRSTwNGv7c58SAEy9JFQYf9cMD.jpg" group-title="SUSPENSE",Extremis
+https://dls7rxd829s2x.cloudfront.net/data/7/16b61017.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
 
