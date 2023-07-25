@@ -59,8 +59,8 @@ https://dls7rxd829s2x.cloudfront.net/data/1/6ab1ee01.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg" group-title="LANÇAMENTOS 2023",Quantumania
 https://dls7rxd829s2x.cloudfront.net/data/4/68a9a5a4.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",sport
-http://grtsvk.life:80/942846298/571486501/72239
+#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
+
 
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
@@ -435,14 +435,14 @@ https://ss7aja9crp62j2zf.cdnspectrum.net:8443/hls/cwdjkhlh9g-98300340.ts
 #EXTINF:-1 tvg-logo="" group-title="TV ON",syfy
 http://189.81.38.25:4000/play/a0ie
 
-#EXTINF:-1 tvg-logo="" group-title="TV ON",paramont
-http://189.81.38.25:4000/play/a0iy
+#EXTINF:-1 tvg-logo="" group-title="TV ON",gobo df
+http://grtsvk.life:80/942846298/571486501/168957
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",picapau
 http://189.81.38.25:4000/play/a0ez
 
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD" tvg-logo="" group-title="TV ON",Polsat Sport News FHD
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/84196
+http://grtsvk.life:80/942846298/571486501/72239
 
 
 
