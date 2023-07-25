@@ -83,11 +83,14 @@ https://dls7rxd829s2x.cloudfront.net/data/8/5e9c6258.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg" group-title="TERROR",A Profecia do Mal 
 https://dls7rxd829s2x.cloudfront.net/data/c/693f3d8c.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hLK7xsJvFNTydWRYvDNW7ZRGBZz.jpg" group-title="TERROR",O Chamado 3
+https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dKKrMV0l5vWwKdtWZ5zf5yAvrYn.jpg" group-title="TERROR",Ghost Lab
+https://dls7rxd829s2x.cloudfront.net/data/a/4b4adeea.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yXJqgPX98cR4FtzLNTcaEEkhlSS.jpg" group-title="TERROR",Brinquedos do Terror
+https://dls7rxd829s2x.cloudfront.net/data/4/24d002d4.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 
@@ -196,7 +199,8 @@ https://dls7rxd829s2x.cloudfront.net/data/1/74664da1.mp4
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/7MKg45FkiCA4BaYNyJNcW84skrx.jpg" group-title="AÇÃO",O Duelo Final 
+https://dls7rxd829s2x.cloudfront.net/data/f/5d8aa0bf.mp4
 
 
 
@@ -269,8 +273,14 @@ https://dls7rxd829s2x.cloudfront.net/data/b/518d91ab.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u0YbQixvFBSmZfk0EjRWDE6wWgq.jpg" group-title="COMEDIA",Em Guerra com o Vovô
 https://dls7rxd829s2x.cloudfront.net/data/2/72ffb2b2.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mpXRG5zPUT18IeYvCoC4zOscked.jpg" group-title="COMEDIA",Um Príncipe em Nova York 2
+https://dls7rxd829s2x.cloudfront.net/data/8/6d0fd2e8.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
 
@@ -313,7 +323,8 @@ https://dls7rxd829s2x.cloudfront.net/data/c/7854ca3c.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wllzjZxg4ynlAm5xmOICJ2uHOPJ.jpg" group-title="AVENTURA",Godzilla vs Kong
 https://dls7rxd829s2x.cloudfront.net/data/b/2543321b.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/cJP4wT4RB85E3gbwRe3LWJORXXM.jpg" group-title="AVENTURA",Indiana Jones e a Última Cruzada 
+https://dls7rxd829s2x.cloudfront.net/data/e/138aaefe.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 
