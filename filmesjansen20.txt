@@ -81,6 +81,19 @@ https://dls7rxd829s2x.cloudfront.net/data/8/5e9c6258.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta5
 
 ##########################################################################################################################
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="INVASAO SECRETA", Lone Star1
+https://dls7rxd829s2x.cloudfront.net/data/0/1a13ead0.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="INVASAO SECRETA", Lone Star3
+https://dls7rxd829s2x.cloudfront.net/data/2/0d847f12.mp4
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg" group-title="TERROR",A Profecia do Mal 
 https://dls7rxd829s2x.cloudfront.net/data/c/693f3d8c.mp4
@@ -208,7 +221,8 @@ https://dls7rxd829s2x.cloudfront.net/data/1/74664da1.mp4
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/aGkgDTOfgiXUIWC52tjFUZnzrWZ.jpg" group-title="AÇÃO",Robin Hood A Origem
 https://dls7rxd829s2x.cloudfront.net/data/e/46b475be.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg" group-title="AÇÃO",A Sentinela
+https://dls7rxd829s2x.cloudfront.net/data/1/20ea7ab1.mp4 
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 
@@ -216,6 +230,17 @@ https://dls7rxd829s2x.cloudfront.net/data/e/46b475be.mp4
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/7MKg45FkiCA4BaYNyJNcW84skrx.jpg" group-title="AÇÃO",O Duelo Final 
 https://dls7rxd829s2x.cloudfront.net/data/f/5d8aa0bf.mp4
+
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 
 
 
@@ -261,10 +286,47 @@ https://dls7rxd829s2x.cloudfront.net/data/6/10df0756.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/FiqBRypTDyHzqcxdbpPb3ddFep.jpg" group-title="ANIMAÇÃO",Dragon Ball Super SUPER HERO
 https://dls7rxd829s2x.cloudfront.net/data/1/40963de1.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/d54lshicGZC2pGca4SzIpTo3H8P.jpg" group-title="ANIMAÇÃO",O Ritmo da Selva O Filme 
+https://dls7rxd829s2x.cloudfront.net/data/8/486e8ca8.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/u4rWHJLzM8CrsdtcTOLGY58ef4j.jpg" group-title="ANIMAÇÃO",Reino do Superman
+https://dls7rxd829s2x.cloudfront.net/data/3/70fabfc3.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4aOyZTiybSidipdjtv7xpeO4TZp.jpg" group-title="ANIMAÇÃO",Trolls2 
+https://dls7rxd829s2x.cloudfront.net/data/7/2f5b3ed7.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oS2gHXw1wAopBsmrk3F6Dkmsng1.jpg" group-title="ANIMAÇÃO",Vixen O Filme 
+https://dls7rxd829s2x.cloudfront.net/data/8/27bec6e8.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/atlvvY0QnnW5WrW0UEWfcpdIIX9.jpg" group-title="ANIMAÇÃO",Sonhos SA 
+https://dls7rxd829s2x.cloudfront.net/data/6/2ff7d916.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tdE3jQnTT8oEMTFsMpkzu1pnzDF.jpg" group-title="ANIMAÇÃO",Luca
+https://dls7rxd829s2x.cloudfront.net/data/f/7ebc264f.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/itN4fscYy1hIQy5lSdv44SddsoG.jpg" group-title="ANIMAÇÃO",Space Jam Um Novo Legado
+https://dls7rxd829s2x.cloudfront.net/data/b/29430bcb.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/zgWvMAmaWeuybWcUoKaX5EAkGDG.jpg" group-title="ANIMAÇÃO",Scooby Doo e a Espad‪a‬ 
+https://dls7rxd829s2x.cloudfront.net/data/4/31310d94.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/B3Xz48iyIh9ejffVtfCxwzTO7n.jpg" group-title="ANIMAÇÃO",Agência Secreta de Controle de Magias 
+https://dls7rxd829s2x.cloudfront.net/data/8/2ed7e168.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8wMyH1odZkVrM3uLcPRInGgx53S.jpg" group-title="ANIMAÇÃO",Os Croods
+https://dls7rxd829s2x.cloudfront.net/data/6/693e5a36.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/vRTScutueW9gLF3dSo2Za7o0v7n.jpg" group-title="ANIMAÇÃO",Os Croods 2 Uma Nova Era 
+https://dls7rxd829s2x.cloudfront.net/data/2/641992d2.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6Wqr1Jthqs801DAsNI71PnrPjdX.jpg" group-title="ANIMAÇÃO",Big Pai Big Filho 2 
+https://dls7rxd829s2x.cloudfront.net/data/6/69988406.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gNygVjotBeHHMSfVfhuTWZvkTr9.jpg" group-title="ANIMAÇÃO",Tina e Téo A Pedra Encantada
+https://ia801905.us.archive.org/3/items/Viloud/Viloud.mp4
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
-
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
@@ -343,7 +405,8 @@ https://dls7rxd829s2x.cloudfront.net/data/b/2543321b.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/cJP4wT4RB85E3gbwRe3LWJORXXM.jpg" group-title="AVENTURA",Indiana Jones e a Última Cruzada 
 https://dls7rxd829s2x.cloudfront.net/data/e/138aaefe.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3UwGwHhRYVnI8bnEFNfu2kpVQkB.jpg" group-title="AVENTURA",Jungle Cruise
+https://dls7rxd829s2x.cloudfront.net/data/a/287e52aa.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 
