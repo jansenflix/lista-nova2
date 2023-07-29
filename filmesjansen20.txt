@@ -245,7 +245,7 @@ https://dls7rxd829s2x.cloudfront.net/data/8/19651618.mp4
 https://dls7rxd829s2x.cloudfront.net/data/5/37ee60a5.mp4
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/fvwR00VUW2yFtSdYr8F3NUmusf6.jpg" group-title="AÇÃO",Arranha Céu Coragem Sem Limite
-https://dls7rxd829s2x.cloudfront.net/data/2/65c2f2b2.mp4,Arranha Céu Coragem Sem Limite
+https://dls7rxd829s2x.cloudfront.net/data/2/65c2f2b2.mp4
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
