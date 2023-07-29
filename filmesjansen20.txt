@@ -224,15 +224,20 @@ https://dls7rxd829s2x.cloudfront.net/data/e/46b475be.mp4
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg" group-title="AÇÃO",A Sentinela
 https://dls7rxd829s2x.cloudfront.net/data/1/20ea7ab1.mp4 
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/58MckINQv9nulew8KuQgcwTRJGd.jpg" group-title="AÇÃO",O Esquadrão Suicida 
+https://dls7rxd829s2x.cloudfront.net/data/d/03f5347d.mp4
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/7MKg45FkiCA4BaYNyJNcW84skrx.jpg" group-title="AÇÃO",O Duelo Final 
 https://dls7rxd829s2x.cloudfront.net/data/f/5d8aa0bf.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="https://www.themoviedb.org/t/p/original/gZ7gFRoGy7plNK5CgT9toMjmTtv.jpg" tvg-logo="" group-title="AÇÃO",Viuva Negra
+https://dls7rxd829s2x.cloudfront.net/data/f/1f76b57f.mp4
+
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/jBkHl6Sg9OSYr7L3AqFcayp7dd8.jpg" group-title="AÇÃO",A Guerra do Amanha
+https://dls7rxd829s2x.cloudfront.net/data/a/2b27bc9a.mp4
+
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
@@ -274,7 +279,7 @@ https://dls7rxd829s2x.cloudfront.net/data/5/3e7e4d45.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="ANIMAÇÃO",Sing 2 
 https://dls7rxd829s2x.cloudfront.net/data/b/1f63a09b.mp4
 
-#EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/red-crescer-e-uma-fera-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="ANIMAÇÃO",Red  Crescer é uma Fera
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/725WE0Qb1BbUF7aGvjiQqzzffpg.jpg" group-title="ANIMAÇÃO",Red  Crescer é uma Fera
 https://dls7rxd829s2x.cloudfront.net/data/e/61f0d6ee.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6a7NItazspSV8Fl7u46ccxwPKk4.jpg" group-title="ANIMAÇÃO",Homem-Aranha: Através do Aranhaverso 
@@ -323,9 +328,13 @@ https://dls7rxd829s2x.cloudfront.net/data/6/69988406.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gNygVjotBeHHMSfVfhuTWZvkTr9.jpg" group-title="ANIMAÇÃO",Tina e Téo A Pedra Encantada
 https://ia801905.us.archive.org/3/items/Viloud/Viloud.mp4
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/l6luVQ9F7t7wErnSOq6Vd0SgDxV.jpg" group-title="ANIMAÇÃO",Festa no Céu 
+https://dls7rxd829s2x.cloudfront.net/data/0/6152d370.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1N3RwuVi6LjeHjTodyBZ4HrocEV.jpg" group-title="ANIMAÇÃO",Monster Hunter Legends of the Guild
+https://image.tmdb.org/t/p/w342/fctSbleL7ozVcGyC163nPv4arW1.jpg
+
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
@@ -408,8 +417,18 @@ https://dls7rxd829s2x.cloudfront.net/data/e/138aaefe.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3UwGwHhRYVnI8bnEFNfu2kpVQkB.jpg" group-title="AVENTURA",Jungle Cruise
 https://dls7rxd829s2x.cloudfront.net/data/a/287e52aa.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg" group-title="AVENTURA",Caminhos da Floresta 
+https://dls7rxd829s2x.cloudfront.net/data/1/619222d1.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 
 
