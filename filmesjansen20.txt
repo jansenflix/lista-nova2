@@ -232,7 +232,7 @@ https://dls7rxd829s2x.cloudfront.net/data/d/03f5347d.mp4
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/7MKg45FkiCA4BaYNyJNcW84skrx.jpg" group-title="AÇÃO",O Duelo Final 
 https://dls7rxd829s2x.cloudfront.net/data/f/5d8aa0bf.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="https://www.themoviedb.org/t/p/original/gZ7gFRoGy7plNK5CgT9toMjmTtv.jpg" tvg-logo="" group-title="AÇÃO",Viuva Negra
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/gZ7gFRoGy7plNK5CgT9toMjmTtv.jpg" group-title="AÇÃO",Viuva Negra
 https://dls7rxd829s2x.cloudfront.net/data/f/1f76b57f.mp4
 
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/jBkHl6Sg9OSYr7L3AqFcayp7dd8.jpg" group-title="AÇÃO",A Guerra do Amanha
