@@ -521,7 +521,7 @@ https://ss7aja9crp62j2zf.cdnspectrum.net:8443/hls/cwdjkhlh9g-98300340.ts
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN6
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",RECORD
-https://evpp.mm.uol.com.br/band/bandnewsfm_bsb/media_w1711273594_88917.aac
+https://evpp.mm.uol.com.br/band/bandnewsfm_bsb/chunklist_w572403074.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV ON",gobo df
 http://grtsvk.life:80/942846298/571486501/71023
 
