@@ -529,7 +529,7 @@ http://grtsvk.life:80/942846298/571486501/71023
 #EXTINF:-1 tvg-logo="" group-title="TV ON",picapau
 http://189.81.38.25:4000/play/a0ez
 
-#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/T7Ny3bL8gk.png" group-title="TV ON",Polsat Sport News FHD
+#EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CrzaLc4bzQ.jpg" group-title="TV ON",Polsat Sport News FHD
 https://8157.brasilstream.com.br/stream?origem=radio-ao-vivo
 
 
