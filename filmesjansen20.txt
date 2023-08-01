@@ -530,8 +530,7 @@ http://grtsvk.life:80/942846298/571486501/71023
 http://189.81.38.25:4000/play/a0ez
 
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD" tvg-logo="" group-title="TV ON",Polsat Sport News FHD
-http://grtsvk.life:80/942846298/571486501/72239
-
+https://8157.brasilstream.com.br/stream?origem=radio-ao-vivo
 
 
 
