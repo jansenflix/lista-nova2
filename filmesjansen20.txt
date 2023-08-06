@@ -573,6 +573,8 @@ http://187.13.81.65:4000/play/a0f3
 http://mytuner-radio.com/pt/embed/band-news-fm-905-brasilia-400243
 #EXTINF:-1 tvg-logo="" group-title="TV ON",gobo df
 http://grtsvk.life:80/942846298/571486501/71023
+#EXTINF:-1 tvg-logo="" group-title="TV ON",FOX PREMIUM
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4787
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",picapau
 http://189.81.38.25:4000/play/a0ez
