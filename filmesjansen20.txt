@@ -556,7 +556,7 @@ https://dls7rxd829s2x.cloudfront.net/data/d/5a00cbcd.mp4
 
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN
-https://pull.niuo.live/live/stream-220867_lhd1.flv?txSecret=e9ef0432ac5c336560a144c9ca8955c5&txTime=64b0d22f
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2821
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN 3
 https://pull.niuo.live/live/stream-224711_lhd1.flv?txSecret=b3356105e84e40ed5d3a98ff2c775ef5&txTime=64b0df13
