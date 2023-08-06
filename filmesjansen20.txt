@@ -227,6 +227,9 @@ https://dls7rxd829s2x.cloudfront.net/data/5/4b7dfe95.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg" group-title="AÇÃO",Os Cavaleiros do Zodíaco Saint Seiya O Começo 
 https://dls7rxd829s2x.cloudfront.net/data/7/05512917.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg" group-title="AÇÃO",Os Cavaleiros do Zodíaco Saint Seiya O Começo 
+http://lati_0_44.limitv.me/vauth/XjVfLFEq46iVfYFg4QRy_ktBUhTsJxgmar4IRcEclLiIPwEzc9lcFKmoeLfWp7pjx-G-Rz9GOB9f0gix0AKvjc3zfgNMk_9cYNHZS3uLMD_WVJZ4jnwypkKTKphHI0driTYLEuBX60s86FYz1JAecofVpySSKJLrTyDHiIG9xDLfbtXhCLOzWVnN6NeZSfoLS1zhecTsSBKZqvpQbnEVKoLXlRrXAOKmEiFTMfLBAJupfut_5ve8xyCRxrsCzj2AmjE3CzlstM4C5mj5_SNPXl6XTF9kCrP1PIvXkIapcNVFLthjIPVzJsXFShS_pkHGS4tqqxC6h6JmMxPCn8Pvy8qczIkQ6UTivGil782BHDOXGgnJhOM5N5N5YYOu2MgR55kcWo_km5LUkQES3r-2V4ODhg6_b3-EGYfDMNWx8YnprzBEfJd3LujKFk0lSCcR3RmxpCfIt3ZiS-VtADqLRKxrURDRVg6NX4xntIdsx_Q1m3TrerngQy2QWOAoL5p1T3dcqOH4CB9_RnIblO285buF-hMTvSPo_Xu0vR0LhzgRuut4poGlf8jZnw5_vysFef1SO5o-dNRNsEDj5N71ygzvJxnc7MnUp0_w-a75DLJy1Z6uPnWDfusHOcrt_ZT3OYcsBzWcEjRT6uYK_3r0Svet5PB8nPvZSbTnow7HksU
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5KZwFWPY7a0bZFRXgA8t8fY6bcL.jpg" group-title="AÇÃO",Transformers O Despertar das Feras
 https://dls7rxd829s2x.cloudfront.net/data/b/6e6854eb.mp4
 
