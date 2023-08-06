@@ -81,19 +81,41 @@ https://dls7rxd829s2x.cloudfront.net/data/8/5e9c6258.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta5
 
 ##########################################################################################################################
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="INVASAO SECRETA", Lone Star1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star1
 https://dls7rxd829s2x.cloudfront.net/data/0/1a13ead0.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="INVASAO SECRETA", Lone Star3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star3
 https://dls7rxd829s2x.cloudfront.net/data/2/0d847f12.mp4
 
+####################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentário",T01E01
+https://dls7rxd829s2x.cloudfront.net/data/2/36d96fb2.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentário",T01E02
+https://dls7rxd829s2x.cloudfront.net/data/5/1e573275.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentário",T01E03
+https://dls7rxd829s2x.cloudfront.net/data/3/536747a3.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentário",T01E04
+https://dls7rxd829s2x.cloudfront.net/data/5/40275e95.mp4
 
-
-
-
-
-
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="NEGOCIADOR",T01E01
+https://dls7rxd829s2x.cloudfront.net/data/9/3ab50bc9.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="NEGOCIADOR",T01E02
+https://dls7rxd829s2x.cloudfront.net/data/c/2232ce8c.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="NEGOCIADOR",T01E03
+https://dls7rxd829s2x.cloudfront.net/data/5/4d55df95.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="NEGOCIADOR",T01E04
+https://dls7rxd829s2x.cloudfront.net/data/0/60934da0.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="NEGOCIADOR",T01E05
+https://dls7rxd829s2x.cloudfront.net/data/e/7878f09e.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="NEGOCIADOR",T01E06
+https://dls7rxd829s2x.cloudfront.net/data/a/62991afa.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="NEGOCIADOR",T01E07
+https://dls7rxd829s2x.cloudfront.net/data/1/7d212591.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="NEGOCIADOR",T01E08
+https://dls7rxd829s2x.cloudfront.net/data/2/5403e1e2.mp4
+####################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg" group-title="TERROR",A Profecia do Mal 
 https://dls7rxd829s2x.cloudfront.net/data/c/693f3d8c.mp4
@@ -113,7 +135,9 @@ https://dls7rxd829s2x.cloudfront.net/data/7/15e4efe7.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dSMhCQNe5Kb157zOU4k7IqVrInd.jpg" group-title="TERROR",Parque do Inferno
 https://dls7rxd829s2x.cloudfront.net/data/b/081c4fab.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg" group-title="TERROR",Sobrenatural A Porta Vermelha
+https://dls7rxd829s2x.cloudfront.net/data/5/68a80805.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
@@ -341,6 +365,26 @@ https://dls7rxd829s2x.cloudfront.net/data/0/6152d370.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/1N3RwuVi6LjeHjTodyBZ4HrocEV.jpg" group-title="ANIMAÇÃO",Monster Hunter Legends of the Guild
 https://image.tmdb.org/t/p/w342/fctSbleL7ozVcGyC163nPv4arW1.jpg
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wuuC2UVWsCSvAQNxvJiRJZLuYD3.jpg" group-title="ANIMAÇÃO",Heróis da Máscara Dourada
+https://dls7rxd829s2x.cloudfront.net/data/9/56073439.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mghRagZrG8ZGVmmc72o09k98COR.jpg" group-title="ANIMAÇÃO",Boogey Um Monstro Adorável
+https://dls7rxd829s2x.cloudfront.net/data/e/4e1ffd6e.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 
@@ -426,7 +470,9 @@ https://dls7rxd829s2x.cloudfront.net/data/a/287e52aa.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg" group-title="AVENTURA",Caminhos da Floresta 
 https://dls7rxd829s2x.cloudfront.net/data/1/619222d1.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4yycSPnchdNAZirGkmCYQwTd3cr.jpg" group-title="AVENTURA",Guardiões da Galáxia Vol 3
+https://dls7rxd829s2x.cloudfront.net/data/0/708f3ed0.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
