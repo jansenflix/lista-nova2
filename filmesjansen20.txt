@@ -274,8 +274,10 @@ https://dls7rxd829s2x.cloudfront.net/data/5/37ee60a5.mp4
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/fvwR00VUW2yFtSdYr8F3NUmusf6.jpg" group-title="AÇÃO",Arranha Céu Coragem Sem Limite
 https://dls7rxd829s2x.cloudfront.net/data/2/65c2f2b2.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/itYONYDHpJqTuu8BCXAtHxgpglq.jpg" group-title="AÇÃO",The Flash
+https://dls7rxd829s2x.cloudfront.net/data/e/7eab3dde.mp4
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/t3vZkkM5G40pUJxUzkz69H777Hm.jpg" group-title="AÇÃO",Projeto Extração
+https://dls7rxd829s2x.cloudfront.net/data/7/17fa13f7.mp4
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
@@ -553,6 +555,13 @@ https://dls7rxd829s2x.cloudfront.net/data/c/2094381c.mp4
 #EXTINF:-1 tvg-id="Todo Mundo Odeia o Chris " tvg-name="Todo Mundo Odeia o Chris T02E02 " tvg-logo="https://www.themoviedb.org/t/p/original/nYfvhUtbqMGtd5iV9sj2fdEFN5p.jpg" group-title="Todo Mundo Odeia o Chris" pltv-subgroup="Todo Mundo Odeia o Chris 2ª Temporada",Todo Mundo Odeia o Chris
 https://dls7rxd829s2x.cloudfront.net/data/d/5a00cbcd.mp4
 #################################################################################################################################
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aqZSh7spK9DI8F6k2H7lgt2hay6.jpg" group-title="Operação Lioness" pltv-subgroup="Operação Lioness  1ª Temporada",Operação LionessS01E01
+https://dls7rxd829s2x.cloudfront.net/data/f/43b9bf3f.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aqZSh7spK9DI8F6k2H7lgt2hay6.jpg" group-title="Operação Lioness" pltv-subgroup="Operação Lioness  1ª Temporada",Operação LionessS01E02
+https://dls7rxd829s2x.cloudfront.net/data/6/5e41c9d6.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aqZSh7spK9DI8F6k2H7lgt2hay6.jpg" group-title="Operação Lioness" pltv-subgroup="Operação Lioness  1ª Temporada",Operação LionessS01E03
+https://dls7rxd829s2x.cloudfront.net/data/e/4fac90be.mp4
+################################################################################################################################
 
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN
