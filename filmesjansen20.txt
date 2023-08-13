@@ -561,6 +561,8 @@ https://dls7rxd829s2x.cloudfront.net/data/f/43b9bf3f.mp4
 https://dls7rxd829s2x.cloudfront.net/data/6/5e41c9d6.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aqZSh7spK9DI8F6k2H7lgt2hay6.jpg" group-title="Operação Lioness" pltv-subgroup="Operação Lioness  1ª Temporada",Operação LionessS01E03
 https://dls7rxd829s2x.cloudfront.net/data/e/4fac90be.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aqZSh7spK9DI8F6k2H7lgt2hay6.jpg" group-title="Operação Lioness" pltv-subgroup="Operação Lioness  1ª Temporada",Operação LionessS01E04
+https://dls7rxd829s2x.cloudfront.net/data/e/4f7a171e.mp4
 ################################################################################################################################
 
 
