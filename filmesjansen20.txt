@@ -581,7 +581,7 @@ http://95.99.120.112:8000/play/a051
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN6
 http://187.13.81.65:4000/play/a0f3
 #EXTINF:-1 tvg-logo="" group-title="TV ON",RECORD
-http://mytuner-radio.com/pt/embed/band-news-fm-905-brasilia-400243
+https://slb-27w.smvdn22.live/live/Australian_Open_Court_29/playlist.m3u8?match_id=9096279&s_id=1&t_id=164&stats=stats1wjyjz.top&timestamp=1691959496&key=VTJGc2RHVmtYMTh0RkRUM3d4aGhCbFZQUk5ERzhBczAwSXpUUU95UnN2SmhzN2VHcVREUStnM3BqczN4SU9OUy9TcU5BOG9jMFpGYVY3SCt5MmJidkpaYUNDWTdndE9abEF5bVcvYUx1My9qbTlpRktTZkk3UXE4eXB5WGpGRkw1UG5RZmtrKzI1ZElSdmhUeFpzZWFuMDFaUHk5RzBMQllHNVRRT09nK0FoZmY1RUpQbmdvbHcraWpQOXR1L2FI
 #EXTINF:-1 tvg-logo="" group-title="TV ON",gobo df
 http://grtsvk.life:80/942846298/571486501/71023
 #EXTINF:-1 tvg-logo="" group-title="TV ON",FOX PREMIUM
