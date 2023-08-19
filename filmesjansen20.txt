@@ -583,12 +583,12 @@ https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3997771.flv?sign=f3182232
 #EXTINF:-1 tvg-logo="" group-title="TV ON",RECORD
 https://s--p22w.smvdn22.live/live/AO_ROD_LAVER_ARENA/playlist.m3u8?match_id=9096309&s_id=1&t_id=181&stats=stats1wjyjz.top&timestamp=1691961308&key=VTJGc2RHVmtYMS8vUTdMSk9qSlF4VEVsZkhmZ0MvRjV6WG9VekRaRUYwNks5TWIzaFRJYkJic000SllzYzIxMWVTT1lVYTgvWjRMb0hNVUJTdGdYQ0FOTEhFL1JKMk85MDFUQzE0bXgrT295eEZtM1R0dHBka0I1U0U5NnN1RE0xT0wvSWxDL09DK1VPbmpsN3V6TWh2eVpMOXdtaVNRYVpMVWwxdEFyS3V5STdRanNtZlZPYVVtb3o4aGxvM1JN
 #EXTINF:-1 tvg-logo="" group-title="TV ON",gobo df
-http://grtsvk.life:80/942846298/571486501/71023
+https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3997771.flv?sign=2322e0cb30a0e8d8b8bf51b2c0923254&t=64e1501c
 #EXTINF:-1 tvg-logo="" group-title="TV ON",FOX PREMIUM
 https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3995745.flv?sign=cf346c7ba80713ad1e6a8db2619b1963&t=64e14b2b
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",picapau
-http://189.81.38.25:4000/play/a0ez
+https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3896577.flv?sign=e603d9e5047a9de5265042a5e21f6ec7&t=64e1507c
 
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CrzaLc4bzQ.jpg" group-title="TV ON",Polsat Sport News FHD
 https://8157.brasilstream.com.br/stream?origem=radio-ao-vivo
