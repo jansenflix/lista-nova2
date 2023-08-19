@@ -579,7 +579,7 @@ https://pull.niuo.live/live/stream-117287_lhd1.flv?txSecret=8f715e12933bca135a5e
 http://95.99.120.112:8000/play/a051
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN6
-http://187.13.81.65:4000/play/a0f3
+https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3997771.flv?sign=f31822329bb87637a9219221de599a0c&t=64e14d8a
 #EXTINF:-1 tvg-logo="" group-title="TV ON",RECORD
 https://s--p22w.smvdn22.live/live/AO_ROD_LAVER_ARENA/playlist.m3u8?match_id=9096309&s_id=1&t_id=181&stats=stats1wjyjz.top&timestamp=1691961308&key=VTJGc2RHVmtYMS8vUTdMSk9qSlF4VEVsZkhmZ0MvRjV6WG9VekRaRUYwNks5TWIzaFRJYkJic000SllzYzIxMWVTT1lVYTgvWjRMb0hNVUJTdGdYQ0FOTEhFL1JKMk85MDFUQzE0bXgrT295eEZtM1R0dHBka0I1U0U5NnN1RE0xT0wvSWxDL09DK1VPbmpsN3V6TWh2eVpMOXdtaVNRYVpMVWwxdEFyS3V5STdRanNtZlZPYVVtb3o4aGxvM1JN
 #EXTINF:-1 tvg-logo="" group-title="TV ON",gobo df
