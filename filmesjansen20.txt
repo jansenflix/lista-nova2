@@ -585,7 +585,7 @@ https://s--p22w.smvdn22.live/live/AO_ROD_LAVER_ARENA/playlist.m3u8?match_id=9096
 #EXTINF:-1 tvg-logo="" group-title="TV ON",gobo df
 http://grtsvk.life:80/942846298/571486501/71023
 #EXTINF:-1 tvg-logo="" group-title="TV ON",FOX PREMIUM
-http://00322.xyz:8000/rances123/9IFBBCRBIX/4787
+https://slb-22w.smvdn22.live/live/Canal_21/playlist.m3u8?match_id=9161117&s_id=1&t_id=2697&stats=stats1wjyjz.top&timestamp=1692479788&key=VTJGc2RHVmtYMStZRCtaK1JZR2RKSDhEVHAxL2JvZEhCc2hOY1JPL1VDc3JQaFNSRk9OVXJBYWJTUHc0c21SSVFOZ0E4TFVzdjAyQmhnRUZzNXpJNElxaGtzVzJYYXJSeWNmNjJoTlVzVHNXcnhZUmFHRS9hZWlieEVENTZsd1BNWXdFcUlUbm5qeXN3UXdMMys0cy8yL2RobUJGUlZzM3F6Z0Nia3dkUURFPQ==
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",picapau
 http://189.81.38.25:4000/play/a0ez
