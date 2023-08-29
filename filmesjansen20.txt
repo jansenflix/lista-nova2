@@ -478,7 +478,8 @@ https://dls7rxd829s2x.cloudfront.net/data/1/619222d1.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4yycSPnchdNAZirGkmCYQwTd3cr.jpg" group-title="AVENTURA",Guardiões da Galáxia Vol 3
 https://dls7rxd829s2x.cloudfront.net/data/0/708f3ed0.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wWtASrfOnfrxr3HAV5IfSNSLikQ.jpg" group-title="AVENTURA",Megatubarao 2
+https://dls7rxd829s2x.cloudfront.net/data/3/39ccf273.mp4 
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
@@ -563,6 +564,10 @@ https://dls7rxd829s2x.cloudfront.net/data/6/5e41c9d6.mp4
 https://dls7rxd829s2x.cloudfront.net/data/e/4fac90be.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aqZSh7spK9DI8F6k2H7lgt2hay6.jpg" group-title="Operação Lioness" pltv-subgroup="Operação Lioness  1ª Temporada",Operação LionessS01E04
 https://dls7rxd829s2x.cloudfront.net/data/e/4f7a171e.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aqZSh7spK9DI8F6k2H7lgt2hay6.jpg" group-title="Operação Lioness" pltv-subgroup="Operação Lioness  1ª Temporada",Operação LionessS01E05
+https://dls7rxd829s2x.cloudfront.net/data/8/01f1e818.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/aqZSh7spK9DI8F6k2H7lgt2hay6.jpg" group-title="Operação Lioness" pltv-subgroup="Operação Lioness  1ª Temporada",Operação LionessS01E06
+https://dls7rxd829s2x.cloudfront.net/data/8/09651238.mp4
 ################################################################################################################################
 
 
@@ -570,7 +575,7 @@ https://dls7rxd829s2x.cloudfront.net/data/e/4f7a171e.mp4
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2821
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN 3
-https://pull.niuo.live/live/stream-224711_lhd1.flv?txSecret=b3356105e84e40ed5d3a98ff2c775ef5&txTime=64b0df13
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2822
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN4
 https://pull.niuo.live/live/stream-117287_lhd1.flv?txSecret=8f715e12933bca135a5e07c9203b776a&txTime=64b0df4f
