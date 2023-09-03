@@ -583,15 +583,15 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/2823
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN5
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2824
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2lRCcfemwNRbA2kO8Pz9F0zuurL.png" group-title="TV ON",ESPN5
-http://95.99.120.112:8000/play/a051
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/2lRCcfemwNRbA2kO8Pz9F0zuurL.png" group-title="TV ON",gol
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4827
 
 #EXTINF:-1 tvg-logo="" group-title="TV ON",ESPN6
-https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3997771.flv?sign=f31822329bb87637a9219221de599a0c&t=64e14d8a
-#EXTINF:-1 tvg-logo="" group-title="TV ON",RECORD
-https://s--p22w.smvdn22.live/live/AO_ROD_LAVER_ARENA/playlist.m3u8?match_id=9096309&s_id=1&t_id=181&stats=stats1wjyjz.top&timestamp=1691961308&key=VTJGc2RHVmtYMS8vUTdMSk9qSlF4VEVsZkhmZ0MvRjV6WG9VekRaRUYwNks5TWIzaFRJYkJic000SllzYzIxMWVTT1lVYTgvWjRMb0hNVUJTdGdYQ0FOTEhFL1JKMk85MDFUQzE0bXgrT295eEZtM1R0dHBka0I1U0U5NnN1RE0xT0wvSWxDL09DK1VPbmpsN3V6TWh2eVpMOXdtaVNRYVpMVWwxdEFyS3V5STdRanNtZlZPYVVtb3o4aGxvM1JN
+http://00322.xyz:8000/rances123/9IFBBCRBIX/4828
+#EXTINF:-1 tvg-logo="" group-title="TV ON",VIVA
+http://00322.xyz:8000/rances123/9IFBBCRBIX/5160
 #EXTINF:-1 tvg-logo="" group-title="TV ON",gobo df
-https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3997771.flv?sign=2322e0cb30a0e8d8b8bf51b2c0923254&t=64e1501c
+http://00322.xyz:8000/rances123/9IFBBCRBIX/5098
 #EXTINF:-1 tvg-logo="" group-title="TV ON",FOX PREMIUM
 https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3995745.flv?sign=cf346c7ba80713ad1e6a8db2619b1963&t=64e14b2b
 
