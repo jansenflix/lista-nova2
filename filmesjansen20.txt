@@ -600,8 +600,8 @@ https://pili-live-hdl.tuantuan3.com/tuantuan3-com/sd-1-3896577.flv?sign=e603d9e5
 
 #EXTINF:-1 tvg-id="" tvg-name="Polsat Sport News FHD" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CrzaLc4bzQ.jpg" group-title="TV ON",Polsat Sport News FHD
 https://8157.brasilstream.com.br/stream?origem=radio-ao-vivo
-#EXTINF:-1 tvg-logo="" group-title="TV ON",FOX1
-https://slb-13w.smvdn22.live/live/1464973814_channel2/playlist.m3u8?match_id=9107025&s_id=1&t_id=164&stats=stats1wjyjz.top&timestamp=1691963223&key=VTJGc2RHVmtYMTlSZUQ1bDQrOFd1M2kwMndwTVVFWE4rRlFyR0E3eDBXWmNzTUY4UjU0S0tjWGxXQWpWNWRXWjBPR2U4R2lnU2lTcVJKY0hKQWt4K2p0NHc4S3VoRGxaYTUvcGJPTHpiZkFWdU9uTEVYaERZNUxrbXB3WTAyWXpTTWNWTWR4VS9EdzhsZ2E0MjRnR0NzM1NydS9zWDQzSUJ6M0JodmMwaSs2TXd0bzlLYzRBVFp4Lzh5UDgxYkdJ
+#EXTINF:-1 tvg-logo="" group-title="TV ON",globo
+http://00322.xyz:8000/rances123/9IFBBCRBIX/5134
 
 
 
