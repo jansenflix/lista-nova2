@@ -278,7 +278,10 @@ https://dls7rxd829s2x.cloudfront.net/data/2/65c2f2b2.mp4
 https://dls7rxd829s2x.cloudfront.net/data/e/7eab3dde.mp4
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/t3vZkkM5G40pUJxUzkz69H777Hm.jpg" group-title="AÇÃO",Projeto Extração
 https://dls7rxd829s2x.cloudfront.net/data/7/17fa13f7.mp4
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/u3S3p3j0vL8lHrxTsgGzRQMCdzh.jpg" group-title="AÇÃO",Bad Boys Para Sempre 
+https://dls7rxd829s2x.cloudfront.net/data/e/7a17870e.mp4
+
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 
@@ -451,8 +454,15 @@ https://dls7rxd829s2x.cloudfront.net/data/7/078e6617.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/w6urr1Bo8R4XEOBJDW0j1fNYWH0.jpg" group-title="DRAMA",O Demônio dos Mares 
 https://dls7rxd829s2x.cloudfront.net/data/8/535f67e8.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jGftFA2Orf2AmVNpslsOqifANcA.jpg" group-title="DRAMA",O Homem Invisível
+https://dls7rxd829s2x.cloudfront.net/data/8/2643cdf8.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 
 
@@ -537,6 +547,13 @@ https://dls7rxd829s2x.cloudfront.net/data/1/3c356971.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/s5k4GqTUGXeUdScNrjpYfiQLKHI.jpg" group-title="ICARLY" pltv-subgroup="ICARLY 1ª Temporada",icarly4
 https://dls7rxd829s2x.cloudfront.net/data/9/38f66799.mp4
+########################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qkBxTFbYrBLzPTwnrq8UdjxO2jJ.jpg" group-title="As Visões da Raven" pltv-subgroup="As Visões da Raven 1ª Temporada",S01E01
+https://dls7rxd829s2x.cloudfront.net/data/9/47a9d979.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qkBxTFbYrBLzPTwnrq8UdjxO2jJ.jpg" group-title="As Visões da Raven" pltv-subgroup="As Visões da Raven 1ª Temporada",S01E02
+https://dls7rxd829s2x.cloudfront.net/data/4/2d8e6a84.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qkBxTFbYrBLzPTwnrq8UdjxO2jJ.jpg" group-title="As Visões da Raven" pltv-subgroup="As Visões da Raven 1ª Temporada",S01E019
+https://dls7rxd829s2x.cloudfront.net/data/d/405f3ced.mp4
 ########################################################################################################
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kjgM6baJMb4889MxHLwFAePowcb.jpg" group-title="Entre Estranhos" pltv-subgroup="Entre Estranhos 1ª Temporada",Entre Estranhos1
