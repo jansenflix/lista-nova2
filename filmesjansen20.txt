@@ -62,10 +62,17 @@ https://dls7rxd829s2x.cloudfront.net/data/4/68a9a5a4.mp4
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
 
 
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
-#EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jLDX3Dut9FTH4XjtPZDRaALHNRn.jpg " group-title="LANÇAMENTOS 2023",Missão de Sobrevivência
+https://dls7rxd829s2x.cloudfront.net/data/2/06f06592.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/chQrVPr6Q0jksITWay1u3bPnwA8.jpg" group-title="LANÇAMENTOS 2023",Elementos
+https://dls7rxd829s2x.cloudfront.net/data/5/634a6ab5.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg" group-title="LANÇAMENTOS 2023",Barbie
+https://dls7rxd829s2x.cloudfront.net/data/9/67238bc9.mp4
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg" group-title="LANÇAMENTOS 2023",A Pequena Sereia
+https://dls7rxd829s2x.cloudfront.net/data/d/5fd8ef3d.mp4
 
 ######################################################################################################################
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta1
