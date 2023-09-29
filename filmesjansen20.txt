@@ -151,9 +151,18 @@ https://dls7rxd829s2x.cloudfront.net/data/2/50eecdf2.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/okgBTByIqwRotmfg3ljUBAyVmcW.jpg" group-title="TERROR",Orfa 2 A Origem
 https://dls7rxd829s2x.cloudfront.net/data/a/381fb14a.mp4
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oCPAJFtmdjlMuye8hVI7LAjymgO.jpg" group-title="TERROR",A Médium
+https://dls7rxd829s2x.cloudfront.net/data/0/7c5532c0.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg" group-title="TERROR",Vila do Medo
+https://dls7rxd829s2x.cloudfront.net/data/6/3158a986.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="" group-title="TERROR",
+
+
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/mzezdUZEnpiUIlxpdyLO1R08Lqm.jpg" group-title="AÇÃO",Eternos
@@ -296,7 +305,9 @@ https://dls7rxd829s2x.cloudfront.net/data/e/7a17870e.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/e9ZrMPiJqYg2qEnWS7n1U7W0GHL.jpg" group-title="AÇÃO",Top Gun Maverick
 https://dls7rxd829s2x.cloudfront.net/data/b/03ac365b.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg" group-title="AÇÃO",Besouro Azul
+https://dls7rxd829s2x.cloudfront.net/data/4/4c89ecc4.mp4
+
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
@@ -451,7 +462,9 @@ https://dls7rxd829s2x.cloudfront.net/data/5/08fda3f5.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/fS6u54qj2g9lSoKrNNR4f8RiFYh.jpg" group-title="COMEDIA",Em Busca dos Seus Sonhos 
 https://dls7rxd829s2x.cloudfront.net/data/7/36c31c97.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9lXyjwOLz5IgYJbK4uuzUuLAVrg.jpg" group-title="COMEDIA",Papai é Pop 
+https://dls7rxd829s2x.cloudfront.net/data/f/5fc75acf.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
