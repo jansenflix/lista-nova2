@@ -314,7 +314,9 @@ https://dls7rxd829s2x.cloudfront.net/data/1/50b9c511.mp4
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yH7750OmhoPcrTA9PZTHohDjpqP.jpg" group-title="AÇÃO",os mercenarios4
 https://dls7rxd829s2x.cloudfront.net/data/6/3c103a36.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/lkp6LB2ZfKC4TrGhUJu376PaTFg.jpg" group-title="AÇÃO",Aqueles Que Me Desejam a Morte 
+https://dls7rxd829s2x.cloudfront.net/data/8/04eeaae8.mp4
+
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
@@ -418,9 +420,10 @@ https://dls7rxd829s2x.cloudfront.net/data/e/4e1ffd6e.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg" group-title="ANIMAÇÃO",A lenda da serpente
 https://dls7rxd829s2x.cloudfront.net/data/0/052d4000.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0poNkSayOtlwRzY6MKHTQcBauq.jpg" group-title="ANIMAÇÃO",os peludos
+https://dls7rxd829s2x.cloudfront.net/data/9/2dbc9429.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
@@ -440,7 +443,7 @@ https://dls7rxd829s2x.cloudfront.net/data/0/052d4000.mp4
 https://fast.getshow.io/p/u/txxqb70041/stream/30487uaARTUjhcBkGDrLDv6.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5ZPbBXyjkgIbOasAIduF19EYYGZ.jpg" group-title="COMEDIA",Click
-https://dls7rxd829s2x.cloudfront.net/data/d/1de5ef5d.mp4
+https://dls7rxd829s2x.cloudfront.net/data/4/34fa5af4.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oB7hflIVj3gKGB2R4gtnx5mHFyU.jpg" group-title="COMEDIA",Tô Ryca
 https://dls7rxd829s2x.cloudfront.net/data/8/3f6041a8.mp4
