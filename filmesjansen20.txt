@@ -411,7 +411,8 @@ https://dls7rxd829s2x.cloudfront.net/data/9/56073439.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mghRagZrG8ZGVmmc72o09k98COR.jpg" group-title="ANIMAÇÃO",Boogey Um Monstro Adorável
 https://dls7rxd829s2x.cloudfront.net/data/e/4e1ffd6e.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lmJsSOQtuU7xwN48ATCPrI96ENM.jpg" group-title="ANIMAÇÃO",A lenda da serpente
+https://dls7rxd829s2x.cloudfront.net/data/0/052d4000.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
