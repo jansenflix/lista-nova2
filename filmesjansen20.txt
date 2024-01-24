@@ -308,8 +308,12 @@ https://dls7rxd829s2x.cloudfront.net/data/b/03ac365b.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg" group-title="AÇÃO",Besouro Azul
 https://dls7rxd829s2x.cloudfront.net/data/4/4c89ecc4.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/qU5OoGW31ahW9ANZU5tIwmPydKC.jpg" group-title="AÇÃO",hypnotic ameaça invisivel
+https://dls7rxd829s2x.cloudfront.net/data/1/50b9c511.mp4
+
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/original/yH7750OmhoPcrTA9PZTHohDjpqP.jpg" group-title="AÇÃO",os mercenarios4
+https://dls7rxd829s2x.cloudfront.net/data/6/3c103a36.mp4
+
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
@@ -466,6 +470,17 @@ https://dls7rxd829s2x.cloudfront.net/data/7/36c31c97.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9lXyjwOLz5IgYJbK4uuzUuLAVrg.jpg" group-title="COMEDIA",Papai é Pop 
 https://dls7rxd829s2x.cloudfront.net/data/f/5fc75acf.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/olETegpIsLwrApT1ldOKIwFE8lY.jpg" group-title="COMEDIA",Mussum O Filmis 
+https://dls7rxd829s2x.cloudfront.net/data/b/13d6f73b.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 
@@ -497,7 +512,9 @@ https://dls7rxd829s2x.cloudfront.net/data/8/535f67e8.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jGftFA2Orf2AmVNpslsOqifANcA.jpg" group-title="DRAMA",O Homem Invisível
 https://dls7rxd829s2x.cloudfront.net/data/8/2643cdf8.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xucsXjKWPOXBrQPTSSYOHuka0L2.jpg" group-title="DRAMA",Assassinos da Lua das Flores
+https://dls7rxd829s2x.cloudfront.net/data/2/46eaf3c2.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
@@ -552,8 +569,8 @@ https://dls7rxd829s2x.cloudfront.net/data/c/2dcdd11c.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tGa6klNHeAvkyh2GPPISFBSwZuZ.jpg" group-title="SUSPENSE",Tubarão: Mar de Sangue
 https://dls7rxd829s2x.cloudfront.net/data/d/43a013bd.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="SUSPENSE", 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9faG147UTORzrXbGOiV6HN66nWh.jpg" group-title="SUSPENSE",A Noite das Bruxas
+https://dls7rxd829s2x.cloudfront.net/data/f/0ccd47af.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
 
