@@ -90,7 +90,6 @@ https://dls7rxd829s2x.cloudfront.net/data/8/5e9c6258.mp4
 ##########################################################################################################################
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star1
 https://dls7rxd829s2x.cloudfront.net/data/0/1a13ead0.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star3
 https://dls7rxd829s2x.cloudfront.net/data/2/0d847f12.mp4
 
@@ -102,7 +101,7 @@ https://dls7rxd829s2x.cloudfront.net/data/2/36d96fb2.mp4
 https://dls7rxd829s2x.cloudfront.net/data/5/1e573275.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentário",T01E03
 https://dls7rxd829s2x.cloudfront.net/data/3/536747a3.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentário",T01E04
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentário",T01E4
 https://dls7rxd829s2x.cloudfront.net/data/5/40275e95.mp4
 
 ########################################################################################################################
@@ -126,31 +125,22 @@ https://dls7rxd829s2x.cloudfront.net/data/2/5403e1e2.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg" group-title="TERROR",A Profecia do Mal 
 https://dls7rxd829s2x.cloudfront.net/data/c/693f3d8c.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/hLK7xsJvFNTydWRYvDNW7ZRGBZz.jpg" group-title="TERROR",O Chamado 3
 https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dKKrMV0l5vWwKdtWZ5zf5yAvrYn.jpg" group-title="TERROR",Ghost Lab
 https://dls7rxd829s2x.cloudfront.net/data/a/4b4adeea.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yXJqgPX98cR4FtzLNTcaEEkhlSS.jpg" group-title="TERROR",Brinquedos do Terror
 https://dls7rxd829s2x.cloudfront.net/data/4/24d002d4.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jA4h6xw5GhHnwqHtGd1VLNnl9XA.jpg" group-title="TERROR",Rogai por Nós
 https://dls7rxd829s2x.cloudfront.net/data/7/15e4efe7.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dSMhCQNe5Kb157zOU4k7IqVrInd.jpg" group-title="TERROR",Parque do Inferno
 https://dls7rxd829s2x.cloudfront.net/data/b/081c4fab.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg" group-title="TERROR",Sobrenatural A Porta Vermelha
 https://dls7rxd829s2x.cloudfront.net/data/5/68a80805.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8RkHWJFDuzm0mrsJUxTbPTnsPe7.jpg" group-title="TERROR",a freira
 https://dls7rxd829s2x.cloudfront.net/data/2/50eecdf2.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/okgBTByIqwRotmfg3ljUBAyVmcW.jpg" group-title="TERROR",Orfa 2 A Origem
 https://dls7rxd829s2x.cloudfront.net/data/a/381fb14a.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oCPAJFtmdjlMuye8hVI7LAjymgO.jpg" group-title="TERROR",A Médium
 https://dls7rxd829s2x.cloudfront.net/data/0/7c5532c0.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg" group-title="TERROR",Vila do Medo
@@ -319,8 +309,9 @@ https://dls7rxd829s2x.cloudfront.net/data/8/04eeaae8.mp4
 https://dls7rxd829s2x.cloudfront.net/data/e/65fed56e.mp4
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/AkwflqboRNXvwwdY9d5fHijztjL.jpg" group-title="AÇÃO",A Aranha Negra 
 https://dls7rxd829s2x.cloudfront.net/data/a/7145bbea.mp4
+#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="https://image.tmdb.org/t/p/original/7W2fdpbWV2MiaCpjYakbudP3Ywx.jpg" tvg-logo="" group-title="AÇÃO",O Silêncio da Vingança 
+https://dls7rxd829s2x.cloudfront.net/data/1/0e8589a1.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
@@ -439,7 +430,16 @@ https://dls7rxd829s2x.cloudfront.net/data/b/13d6f73b.mp4
 https://dls7rxd829s2x.cloudfront.net/data/b/687e142b.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kjFuCcTiTTmFbaNWIMcwrnZpMpr.jpg" group-title="COMEDIA",loucas em apuros
 https://dls7rxd829s2x.cloudfront.net/data/7/7c66fe87.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AbkZUxkVZU8XhoRGkknu6cZUark.jpg" group-title="COMEDIA",Wonka
+https://dls7rxd829s2x.cloudfront.net/data/e/1bb18f9e.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/itUAkQmihFmRxMYTa3AkvIzMCV4.jpg" group-title="COMEDIA",As Superpoderosas 
+https://dls7rxd829s2x.cloudfront.net/data/5/418fd175.mp4
 
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
+#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
@@ -483,6 +483,21 @@ https://dls7rxd829s2x.cloudfront.net/data/2/46eaf3c2.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7nB9OWfLWbbyfk0MYv2czQCeKZ3.jpg" group-title="DRAMA",Golda A Mulher de uma Nação 
 https://dls7rxd829s2x.cloudfront.net/data/a/5746737a.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6v1U61XbrCXVF7CVAjRBTslUmaA.jpg" group-title="DRAMA",Minha Solidão Tem Asas
+https://dls7rxd829s2x.cloudfront.net/data/0/1a785b20.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7he2IBkpbedIOJiBBq5LjY4ZCC5.jpg" group-title="DRAMA",Intruso
+https://dls7rxd829s2x.cloudfront.net/data/1/44023a71.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
+#EXTINF:-1 tvg-logo="" group-title="DRAMA",
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
@@ -511,9 +526,17 @@ https://dls7rxd829s2x.cloudfront.net/data/1/619222d1.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4yycSPnchdNAZirGkmCYQwTd3cr.jpg" group-title="AVENTURA",Guardiões da Galáxia Vol 3
 https://dls7rxd829s2x.cloudfront.net/data/0/708f3ed0.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/wWtASrfOnfrxr3HAV5IfSNSLikQ.jpg" group-title="AVENTURA",Megatubarao 2
 https://dls7rxd829s2x.cloudfront.net/data/3/39ccf273.mp4 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jseasEaaWH3Dos7ph0NzpDj0INV.jpg" group-title="AVENTURA",John Carter Entre Dois Mundos 
+https://dls7rxd829s2x.cloudfront.net/data/0/3e20d100.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9fWIhZDRKOv0ad75f3G2ZsRnkp.jpg" group-title="AVENTURA",Jogos Vorazes A Cantiga dos Pássaros e das Serpentes
+https://dls7rxd829s2x.cloudfront.net/data/9/1ec092d9.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg" group-title="AVENTURA",Perdido em Marte
+https://dls7rxd829s2x.cloudfront.net/data/c/1812908c.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
+#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
@@ -523,40 +546,42 @@ https://dls7rxd829s2x.cloudfront.net/data/3/39ccf273.mp4
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 
+################################################################## SUSPENSE ######################################################################
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/4kDlHPIpBSvFmQREFlN1JiU0xRw.jpg" group-title="SUSPENSE",O Mundo dos Esquecidos
 https://dls7rxd829s2x.cloudfront.net/data/7/37d90817.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oLuIH5Mkl9OBefhNC1NtJRTDb1H.jpg" group-title="SUSPENSE",Os Intrusos 
 https://fast.getshow.io/p/u/txxqb70041/stream/34175dGzuTlfUIOTG3sLkv6.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/DUNRzBjRKE1pvl2jiiooDLafKf.jpg" group-title="SUSPENSE",Kimi Alguém Está Escutando
 https://dls7rxd829s2x.cloudfront.net/data/c/2dcdd11c.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/tGa6klNHeAvkyh2GPPISFBSwZuZ.jpg" group-title="SUSPENSE",Tubarão: Mar de Sangue
 https://dls7rxd829s2x.cloudfront.net/data/d/43a013bd.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9faG147UTORzrXbGOiV6HN66nWh.jpg" group-title="SUSPENSE",A Noite das Bruxas
 https://dls7rxd829s2x.cloudfront.net/data/f/0ccd47af.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bHIwckeEu5SO0K4zmYMtDpDfnfW.jpg" group-title="SUSPENSE",Até o Limite 
+https://dls7rxd829s2x.cloudfront.net/data/6/3c1b03a6.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
-
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
+#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
 #EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
 
-#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
-
-#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
-
-#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
-
-#EXTINF:-1 tvg-logo="" group-title="SUSPENSE",
 
  #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/muLbLW8kWOSiEBLgmHeAw6gKpB0.jpg" group-title="Suspicion" pltv-subgroup="Suspicion 1ª Temporada",Suspicion1
  https://dls7rxd829s2x.cloudfront.net/data/3/4855dbb3.mp4
-
  #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/muLbLW8kWOSiEBLgmHeAw6gKpB0.jpg" group-title="Suspicion" pltv-subgroup="Suspicion 1ª Temporada",Suspicion2
  https://dls7rxd829s2x.cloudfront.net/data/e/3e68d78e.mp4
-
  #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/muLbLW8kWOSiEBLgmHeAw6gKpB0.jpg" group-title="Suspicion" pltv-subgroup="Suspicion 1ª Temporada",Suspicion3
  https://dls7rxd829s2x.cloudfront.net/data/2/42747242.mp4
 #########################################################################################################################################
