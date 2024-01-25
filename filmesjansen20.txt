@@ -93,8 +93,8 @@ https://dls7rxd829s2x.cloudfront.net/data/0/1a13ead0.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star3
 https://dls7rxd829s2x.cloudfront.net/data/2/0d847f12.mp4
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star3
-
+                                                              
+                                                              xuxa
 ####################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentario",T01E01
