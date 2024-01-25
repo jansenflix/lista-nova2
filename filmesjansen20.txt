@@ -88,11 +88,11 @@ https://dls7rxd829s2x.cloudfront.net/data/8/5e9c6258.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta5
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star 1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone", Lone Star 01
 https://dls7rxd829s2x.cloudfront.net/data/0/1a13ead0.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star 2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone", Lone Star 02
 https://dls7rxd829s2x.cloudfront.net/data/2/0d847f12.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star 3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone", Lone Star 03
 https://dls7rxd829s2x.cloudfront.net/data/2/0d847f12.mp4
 
                                              
