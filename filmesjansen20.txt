@@ -88,9 +88,9 @@ https://dls7rxd829s2x.cloudfront.net/data/8/5e9c6258.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4nkCVKawK1XcaMPCBMwwd3bewSU.jpg" group-title="INVASAO SECRETA",Invasão Secreta5
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone-Star", Lone-Star1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star1
 https://dls7rxd829s2x.cloudfront.net/data/0/1a13ead0.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone-Star", Lone-Star3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3bV3trdMZqQOpHEjClrogw8TJzw.jpg" group-title="Lone Star", Lone Star3
 https://dls7rxd829s2x.cloudfront.net/data/2/0d847f12.mp4
 
                                              
@@ -102,7 +102,8 @@ https://dls7rxd829s2x.cloudfront.net/data/5/1e573275.mp4
 https://dls7rxd829s2x.cloudfront.net/data/3/536747a3.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentario",T01E04
 https://dls7rxd829s2x.cloudfront.net/data/5/40275e95.mp4
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/v0766HNvljZ4PY6ghG57h2hva6x.jpg" group-title="Xuxa O Documentario",T01E05
+https://dls7rxd829s2x.cloudfront.net/data/7/38246ff7.mp4
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/3ho6HlykHPNc2YmpDRkzLzojEHF.jpg" group-title="NEGOCIADOR",T01E01
 https://dls7rxd829s2x.cloudfront.net/data/9/3ab50bc9.mp4
