@@ -324,8 +324,9 @@ https://dls7rxd829s2x.cloudfront.net/data/9/4ae70659.mp4
 https://dls7rxd829s2x.cloudfront.net/data/8/3ac89258.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tT3w6eGMubdFGGmwLZlUZvYNYTO.jpg" group-title="ANIMAÇÃO",SORTE
 https://dls7rxd829s2x.cloudfront.net/data/7/74181f27.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/apAIqBHMqjKlId60cj7V32bZIS3.jpg" group-title="ANIMAÇÃO",Patos
+https://dls7rxd829s2x.cloudfront.net/data/9/465e18f9.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
@@ -366,9 +367,11 @@ https://dls7rxd829s2x.cloudfront.net/data/7/7c66fe87.mp4
 https://dls7rxd829s2x.cloudfront.net/data/e/1bb18f9e.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/itUAkQmihFmRxMYTa3AkvIzMCV4.jpg" group-title="COMEDIA",As Superpoderosas 
 https://dls7rxd829s2x.cloudfront.net/data/5/418fd175.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pcwOHNTIy6pVOLj6Tjp8tSL9bwF.jpg" group-title="COMEDIA",A Guerra do Hamburguer 2
+https://dls7rxd829s2x.cloudfront.net/data/7/5e43bbf7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg" group-title="COMEDIA",Mamonas Assassinas
+https://dls7rxd829s2x.cloudfront.net/data/8/0ca5ced8.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
-#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
@@ -410,11 +413,15 @@ https://dls7rxd829s2x.cloudfront.net/data/0/1a785b20.mp4
 https://dls7rxd829s2x.cloudfront.net/data/1/44023a71.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rcI59bqVogb5pM1cn0RZhSYUaOE.jpg" group-title="DRAMA",a chamada
 https://dls7rxd829s2x.cloudfront.net/data/b/09f4167b.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lAxUEIHjzqYcatkYKKEOudJW2mA.jpg" group-title="DRAMA",Natureza Humana
+https://dls7rxd829s2x.cloudfront.net/data/e/45409c4e.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/26urhBmCK9uhXxx4fIcjhP9eb2C.jpg" group-title="DRAMA",A Inspeção
+https://dls7rxd829s2x.cloudfront.net/data/9/00b2fd59.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z40Iwyn9XpwUumPnA4BmGMpvDRF.jpg" group-title="DRAMA",Navio de Sangue
+https://dls7rxd829s2x.cloudfront.net/data/4/64f1be44.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jqTzXGckFUrqbAyQdzlG59HpuZH.jpg" group-title="DRAMA",Cinco Chances Para Ser Feliz
+https://dls7rxd829s2x.cloudfront.net/data/7/6999f337.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
-#EXTINF:-1 tvg-logo="" group-title="DRAMA",
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
 #EXTINF:-1 tvg-logo="" group-title="DRAMA",
