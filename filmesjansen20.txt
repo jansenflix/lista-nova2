@@ -245,8 +245,9 @@ https://dls7rxd829s2x.cloudfront.net/data/a/7145bbea.mp4
 https://dls7rxd829s2x.cloudfront.net/data/1/0e8589a1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nZ69WTv7n01womaNz3SHa4inA9x.jpg" group-title="AÇÃO",Pantera Negra Wakanda para Sempre
 https://dls7rxd829s2x.cloudfront.net/data/0/1cb95c40.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg" group-title="AÇÃO",Karatê Kid
+https://dls7rxd829s2x.cloudfront.net/data/c/4decfaec.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
