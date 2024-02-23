@@ -125,7 +125,9 @@ https://dls7rxd829s2x.cloudfront.net/data/6/3158a986.mp4
 https://dls7rxd829s2x.cloudfront.net/data/4/37499b14.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg" group-title="TERROR",A Freira 2
 https://dls7rxd829s2x.cloudfront.net/data/c/2ed4ac1c.mp4
-#EXTINF:-1 tvg-logo="" group-title="TERROR",
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/afBMXuBdEfowk06jMUWHd5isX7J.jpg" group-title="TERROR",Os 13 Pecados
+https://dls7rxd829s2x.cloudfront.net/data/d/07a5450d.mp4
+
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
@@ -241,8 +243,9 @@ https://dls7rxd829s2x.cloudfront.net/data/e/65fed56e.mp4
 https://dls7rxd829s2x.cloudfront.net/data/a/7145bbea.mp4
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="https://image.tmdb.org/t/p/original/7W2fdpbWV2MiaCpjYakbudP3Ywx.jpg" tvg-logo="" group-title="AÇÃO",O Silêncio da Vingança 
 https://dls7rxd829s2x.cloudfront.net/data/1/0e8589a1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nZ69WTv7n01womaNz3SHa4inA9x.jpg" group-title="AÇÃO",Pantera Negra Wakanda para Sempre
+https://dls7rxd829s2x.cloudfront.net/data/0/1cb95c40.mp4
 
-#EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
 #EXTINF:-1 tvg-id="https://www.claro.com" tvg-name="" tvg-logo="" group-title="AÇÃO",
@@ -326,6 +329,21 @@ https://dls7rxd829s2x.cloudfront.net/data/8/3ac89258.mp4
 https://dls7rxd829s2x.cloudfront.net/data/7/74181f27.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/apAIqBHMqjKlId60cj7V32bZIS3.jpg" group-title="ANIMAÇÃO",Patos
 https://dls7rxd829s2x.cloudfront.net/data/9/465e18f9.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v3VjDN1SbMLK5u1B9Z7EuHWsFBr.jpg" group-title="ANIMAÇÃO",Minions 2
+https://dls7rxd829s2x.cloudfront.net/data/7/1fb1ef37.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jL2xuJkM4eO0L4jbVWkjHEt5Sp6.jpg" group-title="ANIMAÇÃO",Curtas dos Minions 2
+https://dls7rxd829s2x.cloudfront.net/data/b/6a27740b.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fYu3K8m4kax8C54XkcpefjcvdZh.jpg" group-title="ANIMAÇÃO",Curtas dos Minions 1
+https://dls7rxd829s2x.cloudfront.net/data/9/1f378939.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fzFkvkr8RBZfpgDNx65wxiZjnnU.jpg" group-title="ANIMAÇÃO",Gatos no Museu
+https://dls7rxd829s2x.cloudfront.net/data/9/1f378939.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y6yeAsB2Ynw0cPUc9yj62eJQXnN.jpg" group-title="ANIMAÇÃO",O Herói Cuco
+https://dls7rxd829s2x.cloudfront.net/data/0/75a10b80.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg" group-title="ANIMAÇÃO",Next Gen
+https://dls7rxd829s2x.cloudfront.net/data/3/7a494073.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg" group-title="ANIMAÇÃO",A Viagem de Chihiro
+https://dls7rxd829s2x.cloudfront.net/data/4/0502dd74.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6HOFLKqXrfuWBUD2l52tbA3Fuex.jpg" group-title="ANIMAÇÃO",Alice no País das Maravilhas
 
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO",
@@ -371,8 +389,9 @@ https://dls7rxd829s2x.cloudfront.net/data/5/418fd175.mp4
 https://dls7rxd829s2x.cloudfront.net/data/7/5e43bbf7.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg" group-title="COMEDIA",Mamonas Assassinas
 https://dls7rxd829s2x.cloudfront.net/data/8/0ca5ced8.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l7Dr2b80QfxSWdyKBefsflwNiIO.jpg" group-title="COMEDIA",Johnny English
+https://dls7rxd829s2x.cloudfront.net/data/2/4be72d92.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
 #EXTINF:-1 tvg-logo="" group-title="COMEDIA",
@@ -457,8 +476,9 @@ https://dls7rxd829s2x.cloudfront.net/data/9/1ec092d9.mp4
 https://dls7rxd829s2x.cloudfront.net/data/c/1812908c.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg" group-title="AVENTURA",Aquaman 2 O Reino Perdido
 https://dls7rxd829s2x.cloudfront.net/data/2/41a69342.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9j7VmIA7SB6aDmEpy055jq8ClJe.jpg" group-title="AVENTURA",Mogli Entre Dois Mundos
+https://dls7rxd829s2x.cloudfront.net/data/7/5aac6547.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
 #EXTINF:-1 tvg-logo="" group-title="AVENTURA",
