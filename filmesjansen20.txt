@@ -3,54 +3,54 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pyDjGw6CD7PDhtdbjZpLT9YzcPu.jpg" group-title="RECENTE",Homem Aranha
 https://dash.animaker.com/a/u/txxqb70041/video/qjgjs1635355238655.mp4
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WFVd1wiGNAk/VVpeejjRqJI/AAAAAAAATIo/yNhy9A4gxEQ/s1600/Estrada%2Bda%2BF%C3%BAria%2Bposter.jpg" group-title="RECENTE",MAD MAX HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WFVd1wiGNAk/VVpeejjRqJI/AAAAAAAATIo/yNhy9A4gxEQ/s1600/Estrada%2Bda%2BF%C3%BAria%2Bposter.jpg" group-title="MAX",Mad Max Estrada da Fúria
 https://dls7rxd829s2x.cloudfront.net/data/2/4cc74412.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/719aIhGrTrJ0yzkZ806Ea4rbonV.jpg" group-title="RECENTE",Ghostbusters Mais Além
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/719aIhGrTrJ0yzkZ806Ea4rbonV.jpg" group-title="PRIME VIDEO",Ghostbusters Mais Além
 https://dls7rxd829s2x.cloudfront.net/data/d/318070ed.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="RECENTE",Homem-Aranha Longe de Casa
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="CLARO TV",Homem-Aranha Longe de Casa
 https://dls7rxd829s2x.cloudfront.net/data/8/581ead38.mp4
-#EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/a-tragedia-de-macbeth-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="RECENTE",A Tragédia de Macbeth
+#EXTINF:-1 tvg-logo="https://ondebaixa.com/imagens/a-tragedia-de-macbeth-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="APPLE TV+",A Tragédia de Macbeth
 https://dls7rxd829s2x.cloudfront.net/data/a/4e75ee7a.mp4
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg" group-title="TERROR",It A Coisa
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/uYxz0lIiNgErrPhQbSjUdwYxtFc.jpg" group-title="MAX",It A Coisa
 https://dls7rxd829s2x.cloudfront.net/data/7/035c7b87.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yVksBmUf2uwEruDttP3XtHamS8q.jpg" group-title="TERROR",It A Coisa – Capítulo 2
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yVksBmUf2uwEruDttP3XtHamS8q.jpg" group-title="MAX",It A Coisa – Capítulo 2
 https://dls7rxd829s2x.cloudfront.net/data/a/0804b07a.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg" group-title="TERROR",Resident Evil Bem-Vindo a Raccoon City
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/eStYYbyaxyDMzHVkGrmkiSrMi0h.jpg" group-title="PRIME VIDEO",Resident Evil Bem-Vindo a Raccoon City
 https://dls7rxd829s2x.cloudfront.net/data/6/471eb386.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2tdouTnIOwcRUv9pWHow5vpUGH6.jpg" group-title="TERROR",Feitiço das Trevas
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/2tdouTnIOwcRUv9pWHow5vpUGH6.jpg" group-title="GLOBO PLAY",Feitiço das Trevas
 https://dls7rxd829s2x.cloudfront.net/data/9/0bcfea09.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/urbyC5UsvP8Ym15S4Rd3sZ9WBkw.jpg" group-title="TERROR",A Baba  O Chamado das Sombras
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/urbyC5UsvP8Ym15S4Rd3sZ9WBkw.jpg" group-title="GLOBO PLAY",A Baba  O Chamado das Sombras
 https://dls7rxd829s2x.cloudfront.net/data/4/353b9684.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u9ekkViulyHAVCPFcXRgk06Z3PK.jpg" group-title="TERROR",O Mistério do Convento 2 Caçadora de Almas
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/u9ekkViulyHAVCPFcXRgk06Z3PK.jpg" group-title="PRIME VIDEO",O Mistério do Convento 2 Caçadora de Almas
 https://dls7rxd829s2x.cloudfront.net/data/c/3465119c.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3h34xP5pvLTA7ofOrfUnBN7CMDE.jpg" group-title="TERROR",Raizes Macabras
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/3h34xP5pvLTA7ofOrfUnBN7CMDE.jpg" group-title="NETFLIX",Raizes Macabras
 https://dls7rxd829s2x.cloudfront.net/data/e/288669be.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ipjlnmwq2BynJt4ZCLI95PwbFV3.jpg" group-title="TERROR",A Viúva das Sombras
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ipjlnmwq2BynJt4ZCLI95PwbFV3.jpg" group-title="PRIME VIDEO",A Viúva das Sombras
 https://dls7rxd829s2x.cloudfront.net/data/8/2c200418.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/piKPOYLyRfmSUEBO4S4Fyq4bXSI.jpg" group-title="TERROR",Não Adianta Rezar
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/piKPOYLyRfmSUEBO4S4Fyq4bXSI.jpg" group-title="PRIME VIDEO",Não Adianta Rezar
 https://dls7rxd829s2x.cloudfront.net/data/3/042ca423.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg" group-title="TERROR",Invocação do Mal 3 A Ordem do Demônio
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg" group-title="PRIME VIDEO",Invocação do Mal 3 A Ordem do Demônio
 https://dls7rxd829s2x.cloudfront.net/data/0/7b5ce550.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/oGzaG5vqSJkIiJmxcJ8EKzfFad3.jpg" group-title="TERROR",Maligno
 https://dls7rxd829s2x.cloudfront.net/data/b/1cc18a8b.mp4
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pemOznnLwBHl6TuQWCJ75kgqhS8.jpg" group-title="LANÇAMENTOS 2023",A Luz do Demônio
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pemOznnLwBHl6TuQWCJ75kgqhS8.jpg" group-title="PRIME VIDEO",A Luz do Demônio
 https://dls7rxd829s2x.cloudfront.net/data/5/0a33d195.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" group-title="LANÇAMENTOS 2023",A Morte do Demônio A Ascensão
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" group-title="MAX",A Morte do Demônio A Ascensão
 https://dls7rxd829s2x.cloudfront.net/data/1/6ab1ee01.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg" group-title="LANÇAMENTOS 2023",Quantumania
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg" group-title="DISNEY+",Quantumania
 https://dls7rxd829s2x.cloudfront.net/data/4/68a9a5a4.mp4
 #EXTINF:-1 tvg-logo="" group-title="LANÇAMENTOS 2023",
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jLDX3Dut9FTH4XjtPZDRaALHNRn.jpg " group-title="LANÇAMENTOS 2023",Missão de Sobrevivência
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jLDX3Dut9FTH4XjtPZDRaALHNRn.jpg " group-title="PRIME VIDEO",Missão de Sobrevivência
 https://dls7rxd829s2x.cloudfront.net/data/2/06f06592.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/chQrVPr6Q0jksITWay1u3bPnwA8.jpg" group-title="LANÇAMENTOS 2023",Elementos
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/chQrVPr6Q0jksITWay1u3bPnwA8.jpg" group-title="DISNEY+",Elementos
 https://dls7rxd829s2x.cloudfront.net/data/5/634a6ab5.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg" group-title="LANÇAMENTOS 2023",Barbie
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg" group-title="MAX",Barbie
 https://dls7rxd829s2x.cloudfront.net/data/9/67238bc9.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg" group-title="LANÇAMENTOS 2023",A Pequena Sereia
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg" group-title="DISNEY+",A Pequena Sereia
 https://dls7rxd829s2x.cloudfront.net/data/d/5fd8ef3d.mp4
 
 
@@ -105,27 +105,27 @@ https://dls7rxd829s2x.cloudfront.net/data/c/693f3d8c.mp4
 https://dls7rxd829s2x.cloudfront.net/data/0/549b48d0.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dKKrMV0l5vWwKdtWZ5zf5yAvrYn.jpg" group-title="TERROR",Ghost Lab
 https://dls7rxd829s2x.cloudfront.net/data/a/4b4adeea.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yXJqgPX98cR4FtzLNTcaEEkhlSS.jpg" group-title="TERROR",Brinquedos do Terror
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/yXJqgPX98cR4FtzLNTcaEEkhlSS.jpg" group-title="MAX",Brinquedos do Terror
 https://dls7rxd829s2x.cloudfront.net/data/4/24d002d4.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jA4h6xw5GhHnwqHtGd1VLNnl9XA.jpg" group-title="TERROR",Rogai por Nós
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/jA4h6xw5GhHnwqHtGd1VLNnl9XA.jpg" group-title="NETFLIX",Rogai por Nós
 https://dls7rxd829s2x.cloudfront.net/data/7/15e4efe7.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/dSMhCQNe5Kb157zOU4k7IqVrInd.jpg" group-title="TERROR",Parque do Inferno
 https://dls7rxd829s2x.cloudfront.net/data/b/081c4fab.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg" group-title="TERROR",Sobrenatural A Porta Vermelha
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6lp4uDxLqLEw1CzW1SUOYJ3zdKD.jpg" group-title="MAX",Sobrenatural A Porta Vermelha
 https://dls7rxd829s2x.cloudfront.net/data/5/68a80805.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8RkHWJFDuzm0mrsJUxTbPTnsPe7.jpg" group-title="TERROR",a freira
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8RkHWJFDuzm0mrsJUxTbPTnsPe7.jpg" group-title="MAX",a freira
 https://dls7rxd829s2x.cloudfront.net/data/2/50eecdf2.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/okgBTByIqwRotmfg3ljUBAyVmcW.jpg" group-title="TERROR",Orfa 2 A Origem
 https://dls7rxd829s2x.cloudfront.net/data/a/381fb14a.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oCPAJFtmdjlMuye8hVI7LAjymgO.jpg" group-title="TERROR",A Médium
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oCPAJFtmdjlMuye8hVI7LAjymgO.jpg" group-title="PRIME VIDEO",A Médium
 https://dls7rxd829s2x.cloudfront.net/data/0/7c5532c0.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg" group-title="TERROR",Vila do Medo
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2MWZy92O30GX0HwKyVvQ8rddqGU.jpg" group-title="MAX",Vila do Medo
 https://dls7rxd829s2x.cloudfront.net/data/6/3158a986.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg" group-title="TERROR",Jogos Mortais X
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ch1BGjadaiPU59zYbb6zPUTZtyO.jpg" group-title="PRIME VIDEO",Jogos Mortais X
 https://dls7rxd829s2x.cloudfront.net/data/4/37499b14.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg" group-title="TERROR",A Freira 2
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg" group-title="MAX",A Freira 2
 https://dls7rxd829s2x.cloudfront.net/data/c/2ed4ac1c.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/afBMXuBdEfowk06jMUWHd5isX7J.jpg" group-title="TERROR",Os 13 Pecados
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/afBMXuBdEfowk06jMUWHd5isX7J.jpg" group-title="PRIME VIDEO",Os 13 Pecados
 https://dls7rxd829s2x.cloudfront.net/data/d/07a5450d.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="TERROR",
